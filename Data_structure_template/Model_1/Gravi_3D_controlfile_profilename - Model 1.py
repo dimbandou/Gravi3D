@@ -24,7 +24,7 @@ PRISMA_input_file="Data_files/"+str(model_name)+"_PRISM_input.txt"
 area_MP= 10000.0, -8000.0, 10000.0, -8000.0, 4000.0, -1000.0  
 
 #This command executes Gravi3D 
-exec(open("../../Gravi3D_ver10.4.8.py").read())
+exec(open("../../Gravi3D_v0.9.py").read())
 
 
 #Path to the DEM profile file
