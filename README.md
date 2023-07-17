@@ -6,13 +6,17 @@ The calculation of the gravity effect of an arbitrarily shaped body requires the
 
 Gravi3D comprises of two routines solving for two of those geometries. The first routine is called PRISMA and is based on the analytical solution for a prismatic body originally proposed by Nagy (1966). The second routine is called BGPoly (Bouguer Gravity Polygons) and it is based on the analytical solution for a thin layer of polygonal shape as proposed by Talwani and Ewing (1960).
 
-The geometry of overdeepenings has been obtained with Gravi3D (Bandou et al. 2022) thanks to a workflow developed specifically for this use (Bandou, 2023)
+The geometry of overdeepenings has been obtained with Gravi3D (Bandou et al. 2022) thanks to a workflow developed specifically for this use (Bandou, 2023). Gravi3D was also used to produce models of the cross-sectional geometry of overdeepenings presented in Bandou et al. (submitted). These models can be found on BORIS (https://boris.unibe.ch/) (Bandou et al., 2023).
 
 References:
 
 Bandou, D., Schlunegger, F., Kissling, E., Marti, U., Schwenk, M., Schläfli, P., Douillet, G., Mair, D., 2022. Three-dimensional gravity modelling of a Quaternary overdeepening fill in the Bern area of Switzerland discloses two stages of glacial carving. Scientific Reports 12, 1441. doi:10.1038/s41598-022-04830-x.
 
-Bandou, D., 2023. Overdeepenings in the Bern region, Switzerland: Understanding their formation processes with 3D gravity forward modelling. Bern, Switzerland.
+Bandou, D., Kissling, E., Schlunegger, F., 2023. Gravi3D modelling results in the Bern area. https://doi.org/10.48620/281
+
+Bandou, D., Schlunegger, F., Kissling, E., Marti, U., Reber, R., Pfander, J., submitted. Overdeepenings in the Swiss plateau: U-shaped geometries underlain by inner gorges. Submitted to the Swiss Journal of Geosciences.
+
+Bandou, D., 2023. Overdeepenings in the Bern region, Switzerland: Understanding their formation processes with 3D gravity forward modelling. Bern, Switzerland. PhD Thesis.
 
 Nagy, D., 1966. The gravitational attraction of a right rectangular prism. Geophysics XXXI, 362-371. doi:10.1190/1.1439779.
 
