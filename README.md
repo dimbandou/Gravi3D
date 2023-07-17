@@ -10,10 +10,10 @@ The geometry of overdeepenings has been obtained with Gravi3D (Bandou et al. 202
 
 References:
 
-Bandou, D., Schlunegger, F., Kissling, E., Marti, U., Schwenk, M., Schläfli, P., Douillet, G., Mair, D., 2022. Three-dimensional gravity modelling of a Quaternary overdeepening ll in the Bern area of Switzerland discloses two stages of glacial carving. Scientic Reports 12, 1441. doi:10.1038/s41598-022-04830-x.
+Bandou, D., Schlunegger, F., Kissling, E., Marti, U., Schwenk, M., Schläfli, P., Douillet, G., Mair, D., 2022. Three-dimensional gravity modelling of a Quaternary overdeepening fill in the Bern area of Switzerland discloses two stages of glacial carving. Scientific Reports 12, 1441. doi:10.1038/s41598-022-04830-x.
 
 Bandou, D., 2023. Overdeepenings in the Bern region, Switzerland: Understanding their formation processes with 3D gravity forward modelling. Bern, Switzerland.
 
-Nagy, D., 1966. The gravitational attraction of a right rectangular prism. Geophysics XXXI, 362371. doi:10.1190/1.1439779.
+Nagy, D., 1966. The gravitational attraction of a right rectangular prism. Geophysics XXXI, 362-371. doi:10.1190/1.1439779.
 
-Talwani, M., Ewing, M., 1960. Rapid computation of gravitational attraction of three-dimensional bodies of arbitrary shape. GEOPHYSICS 25, 203225. doi:10.1190/1.1438687.
+Talwani, M., Ewing, M., 1960. Rapid computation of gravitational attraction of three-dimensional bodies of arbitrary shape. GEOPHYSICS 25, 203-225. doi:10.1190/1.1438687.
