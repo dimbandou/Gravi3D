@@ -8,6 +8,8 @@ Gravi3D comprises of two routines solving for two of those geometries. The first
 
 The geometry of overdeepenings has been obtained with Gravi3D (Bandou et al. 2022) thanks to a workflow developed specifically for this use (Bandou, 2023). Gravi3D was also used to produce models of the cross-sectional geometry of overdeepenings presented in Bandou et al. (submitted). These models can be found on BORIS (https://boris.unibe.ch/) (Bandou et al., 2023).
 
+[![DOI](https://zenodo.org/badge/650158191.svg)](https://zenodo.org/badge/latestdoi/650158191)
+
 References:
 
 Bandou, D., Schlunegger, F., Kissling, E., Marti, U., Schwenk, M., Schläfli, P., Douillet, G., Mair, D., 2022. Three-dimensional gravity modelling of a Quaternary overdeepening fill in the Bern area of Switzerland discloses two stages of glacial carving. Scientific Reports 12, 1441. doi:10.1038/s41598-022-04830-x.
