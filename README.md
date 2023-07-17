@@ -10,7 +10,7 @@ The geometry of overdeepenings has been obtained with Gravi3D (Bandou et al. 202
 
 References:
 
-Bandou, D., Schlunegger, F., Kissling, E., Marti, U., Schwenk, M., Schläi, P., Douillet, G., Mair, D., 2022. Three-dimensional gravity modelling of a Quaternary overdeepening ll in the Bern area of Switzerland discloses two stages of glacial carving. Scientic Reports 12, 1441. doi:10.1038/s41598-022-04830-x.
+Bandou, D., Schlunegger, F., Kissling, E., Marti, U., Schwenk, M., Schläfli, P., Douillet, G., Mair, D., 2022. Three-dimensional gravity modelling of a Quaternary overdeepening ll in the Bern area of Switzerland discloses two stages of glacial carving. Scientic Reports 12, 1441. doi:10.1038/s41598-022-04830-x.
 
 Bandou, D., 2023. Overdeepenings in the Bern region, Switzerland: Understanding their formation processes with 3D gravity forward modelling. Bern, Switzerland.
 
